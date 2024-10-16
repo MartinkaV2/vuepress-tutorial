@@ -1,0 +1,2 @@
+Commit dátuma: 2024-10-16 16:11:33
+Üzenet: Fix bug
