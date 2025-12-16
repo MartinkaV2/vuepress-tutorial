@@ -1,0 +1,19 @@
+{
+  "name": "vuepress-tutorial",
+  "version": "0.0.1",
+  "description": "vuepress bemutatása",
+  "main": "index.js",
+  "authors": {
+    "name": "Martin",
+    "email": ""
+  },
+  "repository": "https://github.com/NartinkaV2/vuepress-tutorial",
+  "scripts": {
+    "docs:dev": "vuepress dev src",
+    "docs:build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
