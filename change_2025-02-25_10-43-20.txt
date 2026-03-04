@@ -1,2 +1,0 @@
-Commit dátuma: 2025-02-25 10:43:20
-Üzenet: Add feature

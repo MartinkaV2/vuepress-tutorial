@@ -1,2 +1,0 @@
-Commit dátuma: 2025-03-10 15:16:32
-Üzenet: Code review fixes

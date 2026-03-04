@@ -23,7 +23,7 @@ Előszőr ellenőrizzük le, hogy fent van-e a Node.js és az npm. De ezek mik i
 - Több millió csomag érhető el, amelyekkel gyorsan bővíthető a projekt funkcionalitása.
 
 ## ✅ Telepítések
-Node.js-t a weboldalon lehet telepíteni. Azonbelül LTS (Long Time Service)-t javaslom hosszútávú támogatás miatt. Gép újrainditás után ezzel a paranccsal lehet megtekinteni, ha sikerült
+Node.js-t a weboldalon lehet telepíteni. Azonbelül LTS (Long Time Support)-t javaslom hosszútávú támogatás miatt. Gép újrainditás után ezzel a paranccsal lehet megtekinteni, ha sikerült
 ``` bash
    npm -v
 ```
@@ -42,7 +42,7 @@ Vue-t többféleképpen telepítheted:
 
 - Globálisan (CLI)
 ``` bash
-    npm install -g @vue/cli
+npm install -g @vue/cli
 ```
 
 - Ezzel létrehozhatsz új projektet:
@@ -53,7 +53,7 @@ vue create my-project
 ## ⬇️ VuePress telepítése
 - CLI-s telepítése
 ``` bash
-    npm init vuepress my-project
+npm init vuepress my-project
 ```
 
 - Project létrehozása után menjünk be ../my-project/docs/.vuepress/ könyvtárba. Ott lesz egy config.js fájl. Ez a weboldalnak a config-ja.

@@ -1,2 +1,0 @@
-Commit dátuma: 2025-02-22 16:27:18
-Üzenet: Refactor

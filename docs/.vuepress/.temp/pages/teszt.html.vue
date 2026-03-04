@@ -31,7 +31,7 @@
 </li>
 </ul>
 <h2 id="✅-telepitesek" tabindex="-1"><a class="header-anchor" href="#✅-telepitesek"><span>✅ Telepítések</span></a></h2>
-<p>Node.js-t a weboldalon lehet telepíteni. Azonbelül LTS (Long Time Service)-t javaslom hosszútávú támogatás miatt. Gép újrainditás után ezzel a paranccsal lehet megtekinteni, ha sikerült</p>
+<p>Node.js-t a weboldalon lehet telepíteni. Azonbelül LTS (Long Time Support)-t javaslom hosszútávú támogatás miatt. Gép újrainditás után ezzel a paranccsal lehet megtekinteni, ha sikerült</p>
 <div class="language-bash line-numbers-mode" data-highlighter="prismjs" data-ext="sh"><pre v-pre><code><span class="line">   <span class="token function">npm</span> <span class="token parameter variable">-v</span></span>
 <span class="line"></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><h2 id="💻-parancsok-amik-helyzetekben-jol-johetnek" tabindex="-1"><a class="header-anchor" href="#💻-parancsok-amik-helyzetekben-jol-johetnek"><span>💻 Parancsok, amik helyzetekben jól jöhetnek</span></a></h2>
@@ -73,7 +73,7 @@
 <ul>
 <li>Globálisan (CLI)</li>
 </ul>
-<div class="language-bash line-numbers-mode" data-highlighter="prismjs" data-ext="sh"><pre v-pre><code><span class="line">    <span class="token function">npm</span> <span class="token function">install</span> <span class="token parameter variable">-g</span> @vue/cli</span>
+<div class="language-bash line-numbers-mode" data-highlighter="prismjs" data-ext="sh"><pre v-pre><code><span class="line"><span class="token function">npm</span> <span class="token function">install</span> <span class="token parameter variable">-g</span> @vue/cli</span>
 <span class="line"></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><ul>
 <li>Ezzel létrehozhatsz új projektet:</li>
@@ -84,7 +84,7 @@
 <ul>
 <li>CLI-s telepítése</li>
 </ul>
-<div class="language-bash line-numbers-mode" data-highlighter="prismjs" data-ext="sh"><pre v-pre><code><span class="line">    <span class="token function">npm</span> init vuepress my-project</span>
+<div class="language-bash line-numbers-mode" data-highlighter="prismjs" data-ext="sh"><pre v-pre><code><span class="line"><span class="token function">npm</span> init vuepress my-project</span>
 <span class="line"></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><ul>
 <li>Project létrehozása után menjünk be ../my-project/docs/.vuepress/ könyvtárba. Ott lesz egy config.js fájl. Ez a weboldalnak a config-ja.</li>

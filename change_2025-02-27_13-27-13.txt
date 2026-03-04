@@ -1,2 +1,0 @@
-Commit dátuma: 2025-02-27 13:27:13
-Üzenet: Cleanup

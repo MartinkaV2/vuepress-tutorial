@@ -1,2 +1,0 @@
-Commit dátuma: 2025-02-28 09:18:34
-Üzenet: Improve performance
